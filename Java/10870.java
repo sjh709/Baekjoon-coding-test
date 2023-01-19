@@ -1,23 +1,25 @@
 import java.util.*;
 
 public class Main {
-    public static int[] d;
     
-    public static int fibo(int n) {
-        if(n == 0 || n == 1)
-            return n;
-        if(d[n] != 0)
-            return d[n];
-        d[n] = fibo(n - 1) + fibo(n - 2);
-        return d[n];
-    }
-    
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        d = new int[n + 1];
-        
-        int answer = fibo(n);
-        System.out.println(answer);
-    }
+	public static int fibo(int n) {
+		// 2. 탈출 조건
+		if(n < 2)
+			return n;
+		
+		// 1. 기본 동작
+		return fibo(n - 1) + fibo(n - 2);
+	}
+	
+	public static void main(String[] args) {
+		// 재귀 함수
+		// 1. 재귀 함수의 기본 동작
+		// 2. 재귀 함수의 탈출 조건
+		
+		Scanner sc = new Scanner(System.in);
+		
+		// ver 1
+		int n = sc.nextInt();
+		System.out.println(fibo(n));
+	}
 }
