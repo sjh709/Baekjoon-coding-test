@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.*;
 public class Main {
-    public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
+    public static int n, m, v;
+    public static boolean[][] graph;
     public static boolean[] visited;
     
     public static void bfs(int start) {
@@ -11,11 +12,10 @@ public class Main {
         while(!q.isEmpty()) {
             int x = q.poll();
             System.out.print(x + " ");
-            for(int i = 0; i < graph.get(x).size(); i++) {
-                int y = graph.get(x).get(i);
-                if(!visited[y]) {
-                    q.offer(y);
-                    visited[y] = true;
+            for(int i = 1; i < n + 1; i++) {
+                if(!visited[i] && graph[x][i]) {
+                    q.offer(i);
+                    visited[i] = true;
                 }
             }
         }
@@ -24,10 +24,9 @@ public class Main {
     public static void dfs(int x) {
         visited[x] = true;
         System.out.print(x + " ");
-        for(int i = 0; i < graph.get(x).size(); i++) {
-            int y = graph.get(x).get(i);
-            if(!visited[y]) {
-                dfs(y);
+        for(int i = 1; i < n + 1; i++) {
+            if(!visited[i] && graph[x][i]) {
+                dfs(i);
             }
         }
     }
@@ -36,31 +35,30 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
-        int v = Integer.parseInt(st.nextToken());
+        // 0. 입력 및 초기화
+        n = Integer.parseInt(st.nextToken());
+        m = Integer.parseInt(st.nextToken());
+        v = Integer.parseInt(st.nextToken());
         
-        for(int i = 0; i <= n; i++) {
-            graph.add(new ArrayList<Integer>());
-        }
+        graph = new boolean[n + 1][n + 1];
+        visited = new boolean[n + 1];
         
+        // 1. graph 정보 입력
         for(int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
-            
-            graph.get(x).add(y);
-            graph.get(y).add(x);
+            graph[x][y] = true;
+            graph[y][x] = true;
         }
         
-        for(int i = 0; i <= n; i++) {
-            Collections.sort(graph.get(i));
-        }
-        
-        visited = new boolean[n + 1];
+        // 2. dfs
         dfs(v);
         System.out.println();
+        
+        // 3. bfs
         visited = new boolean[n + 1];
         bfs(v);
+        
     }
 }
