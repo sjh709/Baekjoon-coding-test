@@ -30,7 +30,6 @@ public class Main {
             }
         }
         
-        int answer = 0;
         List<Integer> list = new ArrayList<Integer>();
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n; j++) {
@@ -38,13 +37,12 @@ public class Main {
                     cnt = 0;
                     dfs(i, j);
                     list.add(cnt);
-                    answer++;
                 }
             }
         }
         Collections.sort(list);
         
-        System.out.println(answer);
+        System.out.println(list.size());
         for(int l : list) {
             System.out.println(l);
         }
