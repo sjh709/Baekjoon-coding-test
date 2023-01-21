@@ -9,3 +9,4 @@
 * 전구: [Java 코드](/Java/2449.java)
 * DFS와 BFS: [Java 코드](/Java/1260.java)
 * 바이러스: [Java 코드](/Java/2606.java)
+* 유기농 배추: [Java 코드](/Java/1012.java)
