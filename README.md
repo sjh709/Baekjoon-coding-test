@@ -12,3 +12,4 @@
 * 유기농 배추: [Java 코드](/Java/1012.java)
 * 단지번호붙이기: [Java 코드](/Java/2667.java)
 * 숫자 카드 2: [Java 코드](/Java/10816.java)
+* 듣보잡: [Java 코드](/Java/1764.java)
