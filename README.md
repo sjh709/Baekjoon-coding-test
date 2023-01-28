@@ -14,3 +14,4 @@
 * 숫자 카드 2: [Java 코드](/Java/10816.java)
 * 듣보잡: [Java 코드](/Java/1764.java)
 * 냅색문제: [Java 코드](/Java/1450.java)
+* 나는야 포켓몬 마스터 이다솜: [Java 코드](/Java/1620.java)
