@@ -10,22 +10,22 @@ public class Main {
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
         
-        HashMap<Integer, String> hash1 = new HashMap<>();
-        HashMap<String, Integer> hash2 = new HashMap<>();
+        HashMap<Integer, String> idx_to_name = new HashMap<>();
+        HashMap<String, Integer> name_to_idx = new HashMap<>();
         
         for(int i = 1; i <= n; i++) {
-            String s = br.readLine();
-            hash1.put(i, s);
-            hash2.put(s, i);
+            String name = br.readLine();
+            idx_to_name.put(i, name);
+            name_to_idx.put(name, i);
         }
         
         for(int i = 0; i < m; i++) {
-            String s = br.readLine();
-            if(s.charAt(0) >= '0' && s.charAt(0) <= '9') {
-                bw.write(hash1.get(Integer.parseInt(s)));
+            String query = br.readLine();
+            if(Character.isDigit(query.charAt(0))) {
+                bw.write(idx_to_name.get(Integer.parseInt(query)));
                 bw.newLine();
             }else {
-                bw.write(String.valueOf(hash2.get(s)));
+                bw.write(String.valueOf(name_to_idx.get(query)));
                 bw.newLine();
             }
         }
