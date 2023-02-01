@@ -16,3 +16,4 @@
 * 냅색문제: [Java 코드](/Java/1450.java)
 * 나는야 포켓몬 마스터 이다솜: [Java 코드](/Java/1620.java)
 * 패션왕 신해빈: [Java 코드](/Java/9375.java)
+* 숫자의 합: [Java 코드](/Java/11720.java)
