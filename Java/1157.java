@@ -5,9 +5,9 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         
-        HashMap<Character, Integer> map = new HashMap<>();
+        /*HashMap<Character, Integer> map = new HashMap<>();
         
-        /*String s = br.readLine().toUpperCase();
+        String s = br.readLine().toUpperCase();
         
         for(int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
