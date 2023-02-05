@@ -7,7 +7,7 @@ public class Main {
         
         HashMap<Character, Integer> map = new HashMap<>();
         
-        String s = br.readLine().toUpperCase();
+        /*String s = br.readLine().toUpperCase();
         
         for(int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
@@ -21,7 +21,28 @@ public class Main {
             bw.write("?");
         }else {
             bw.write(keyList.get(0));
+        }*/
+        
+        String str = br.readLine().toUpperCase();
+        
+        int[] count = new int[26];
+        
+        int maxValue = 0;
+        char maxChar = '?';
+        
+        for(int i = 0; i < str.length(); i++) {
+            int idx = str.charAt(i) - 'A';
+            count[idx]++;
+            
+            if(maxValue < count[idx]) {
+                maxValue = count[idx];
+                maxChar = str.charAt(i);
+            }else if(maxValue == count[idx]) {
+                maxChar = '?';
+            }
         }
+        
+        bw.write(maxChar);
         
         bw.flush();
         
