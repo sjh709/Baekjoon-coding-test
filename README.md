@@ -19,3 +19,4 @@
 * 숫자의 합: [Java 코드](/Java/11720.java)
 * 단어 공부: [Java 코드](/Java/1157.java)
 * ZOAC 4: [Java 코드](/Java/23971.java)
+* 벌집: [Java 코드](/Java/2292.java)
