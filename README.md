@@ -22,3 +22,4 @@
 * 벌집: [Java 코드](/Java/2292.java)
 * 집합: [Java 코드](/Java/11723.java)
 * 돌 게임: [Java 코드](/Java/9655.java)
+* 줄세우기: [Java 코드](/Java/10431.java)
