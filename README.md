@@ -24,3 +24,4 @@
 * 돌 게임: [Java 코드](/Java/9655.java)
 * 줄세우기: [Java 코드](/Java/10431.java)
 * 올림픽: [Java 코드](/Java/8979.java)
+* 덩치: [Java 코드](/Java/7568.java)
