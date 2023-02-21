@@ -25,3 +25,4 @@
 * 줄세우기: [Java 코드](/Java/10431.java)
 * 올림픽: [Java 코드](/Java/8979.java)
 * 덩치: [Java 코드](/Java/7568.java)
+* 블랙잭: [Java 코드](/Java/2798.java)
