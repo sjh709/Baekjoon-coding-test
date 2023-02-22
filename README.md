@@ -26,3 +26,4 @@
 * 올림픽: [Java 코드](/Java/8979.java)
 * 덩치: [Java 코드](/Java/7568.java)
 * 블랙잭: [Java 코드](/Java/2798.java)
+* 분해합: [Java 코드](/Java/2231.java)
