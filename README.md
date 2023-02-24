@@ -27,3 +27,4 @@
 * 덩치: [Java 코드](/Java/7568.java)
 * 블랙잭: [Java 코드](/Java/2798.java)
 * 분해합: [Java 코드](/Java/2231.java)
+* 일곱 난쟁이: [Java 코드](/Java/2309.java)
