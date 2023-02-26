@@ -29,3 +29,4 @@
 * 분해합: [Java 코드](/Java/2231.java)
 * 일곱 난쟁이: [Java 코드](/Java/2309.java)
 * 약수 구하기: [Java 코드](/Java/2501.java)
+* 완전제곱수: [Java 코드](/Java/1977.java)
