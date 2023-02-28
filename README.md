@@ -31,3 +31,4 @@
 * 약수 구하기: [Java 코드](/Java/2501.java)
 * 완전제곱수: [Java 코드](/Java/1977.java)
 * 구슬 탈출 2: [Java 코드](/Java/13460.java)
+* 2048 (Easy): [Java 코드](/Java/12100.java)
