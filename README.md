@@ -35,3 +35,4 @@
 * 뱀: [Java 코드](/Java/3190.java)
 * 시험 감독: [Java 코드](/Java/13458.java)
 * 삼각형 외우기: [Java 코드](/Java/10101.java)
+* 순서쌍의 곱의 합: [Java 코드](/Java/13900.java)
