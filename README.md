@@ -38,3 +38,4 @@
 * 순서쌍의 곱의 합: [Java 코드](/Java/13900.java)
 * 수 이어 쓰기 1: [Java 코드](/Java/1748.java)
 * 소음: [Java 코드](/Java/2935.java)
+* 중간계 전쟁: [Java 코드](/Java/4435.java)
