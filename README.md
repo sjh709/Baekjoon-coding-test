@@ -41,3 +41,4 @@
 * 중간계 전쟁: [Java 코드](/Java/4435.java)
 * 주사위 게임: [Java 코드](/Java/5566.java)
 * 수 찾기: [Java 코드](/Java/1920.java)
+* 명령 프롬프트: [Java 코드](/Java/1032.java)
