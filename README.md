@@ -42,3 +42,4 @@
 * 주사위 게임: [Java 코드](/Java/5566.java)
 * 수 찾기: [Java 코드](/Java/1920.java)
 * 명령 프롬프트: [Java 코드](/Java/1032.java)
+* 최소공배수: [Java 코드](/Java/1934.java)
