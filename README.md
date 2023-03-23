@@ -43,3 +43,4 @@
 * 수 찾기: [Java 코드](/Java/1920.java)
 * 명령 프롬프트: [Java 코드](/Java/1032.java)
 * 최소공배수: [Java 코드](/Java/1934.java)
+* 보물: [Java 코드](/Java/1026.java)
