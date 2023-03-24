@@ -44,3 +44,4 @@
 * 명령 프롬프트: [Java 코드](/Java/1032.java)
 * 최소공배수: [Java 코드](/Java/1934.java)
 * 보물: [Java 코드](/Java/1026.java)
+* 하얀 칸: [Java 코드](/Java/1100.java)
