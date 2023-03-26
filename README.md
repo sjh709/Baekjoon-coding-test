@@ -46,3 +46,4 @@
 * 보물: [Java 코드](/Java/1026.java)
 * 하얀 칸: [Java 코드](/Java/1100.java)
 * 별 찍기 - 1: [Java 코드](/Java/2438.java)
+* 별 찍기 - 5: [Java 코드](/Java/2442.java)
