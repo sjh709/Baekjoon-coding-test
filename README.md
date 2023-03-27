@@ -48,3 +48,4 @@
 * 별 찍기 - 1: [Java 코드](/Java/2438.java)
 * 별 찍기 - 5: [Java 코드](/Java/2442.java)
 * 부당한 퍼즐: [Java 코드](/Java/15501.java)
+* A+B - 5: [Java 코드](/Java/10952.java)
