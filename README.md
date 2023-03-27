@@ -50,3 +50,4 @@
 * 부당한 퍼즐: [Java 코드](/Java/15501.java)
 * A+B - 5: [Java 코드](/Java/10952.java)
 * 알파벳 개수: [Java 코드](/Java/10808.java)
+* 네 수: [Java 코드](/Java/10824.java)
