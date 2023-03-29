@@ -51,3 +51,4 @@
 * A+B - 5: [Java 코드](/Java/10952.java)
 * 알파벳 개수: [Java 코드](/Java/10808.java)
 * 네 수: [Java 코드](/Java/10824.java)
+* 직사각형 네개의 합집합의 면적 구하기: [Java 코드](/Java/2669.java)
