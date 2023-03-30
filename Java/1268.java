@@ -24,7 +24,6 @@ public class Main {
         for(int i = 1; i <= n; i++) {
             int cnt = 0;
             for(int j = 1; j <= 5; j++) {
-                //solve(i, j);
                 for(int k = 1; k <= n; k++) {
                     if(i == k) continue;
                     if(board[i][j] == board[k][j]) {
