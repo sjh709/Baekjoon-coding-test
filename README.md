@@ -53,3 +53,4 @@
 * 네 수: [Java 코드](/Java/10824.java)
 * 직사각형 네개의 합집합의 면적 구하기: [Java 코드](/Java/2669.java)
 * 십자카드 문제: [Java 코드](/Java/2659.java)
+* 임시 반장 정하기: [Java 코드](/Java/1268.java)
