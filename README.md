@@ -55,3 +55,4 @@
 * 십자카드 문제: [Java 코드](/Java/2659.java)
 * 임시 반장 정하기: [Java 코드](/Java/1268.java)
 * 회의실 배정: [Java 코드](/Java/1931.java)
+* 색종이: [Java 코드](/Java/2590.java)
