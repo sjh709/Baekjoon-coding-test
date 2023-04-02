@@ -56,3 +56,4 @@
 * 임시 반장 정하기: [Java 코드](/Java/1268.java)
 * 회의실 배정: [Java 코드](/Java/1931.java)
 * 색종이: [Java 코드](/Java/2590.java)
+* 후보 추천하기: [Java 코드](/Java/1713.java)
