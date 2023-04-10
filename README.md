@@ -59,3 +59,4 @@
 * 후보 추천하기: [Java 코드](/Java/1713.java)
 * 영식이의 손가락: [Java 코드](/Java/1614.java)
 * 경비원: [Java 코드](/Java/2564.java)
+* 아 저는 볶음밥이요: [Java 코드](/Java/23814.java)
