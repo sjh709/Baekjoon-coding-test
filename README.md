@@ -65,3 +65,4 @@
 * ATM: [Java 코드](/Java/11399.java)
 * N과 M (1): [Java 코드](/Java/15649.java)
 * 로봇 청소기: [Java 코드](/Java/14503.java)
+* 색종이: [Java 코드](/Java/2563.java)
