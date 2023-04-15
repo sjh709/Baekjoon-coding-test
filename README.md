@@ -66,3 +66,4 @@
 * N과 M (1): [Java 코드](/Java/15649.java)
 * 로봇 청소기: [Java 코드](/Java/14503.java)
 * 색종이: [Java 코드](/Java/2563.java)
+* 수열: [Java 코드](/Java/2559.java)
