@@ -68,3 +68,4 @@
 * 색종이: [Java 코드](/Java/2563.java)
 * 수열: [Java 코드](/Java/2559.java)
 * 누울 자리를 찾아라: [Java 코드](/Java/1652.java)
+* 페이지 세기: [Java 코드](/Java/4821.java)
