@@ -70,3 +70,4 @@
 * 누울 자리를 찾아라: [Java 코드](/Java/1652.java)
 * 페이지 세기: [Java 코드](/Java/4821.java)
 * 동전 0: [Java 코드](/Java/11047.java)
+* 숫자 야구: [Java 코드](/Java/2503.java)
