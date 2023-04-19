@@ -73,3 +73,4 @@
 * 숫자 야구: [Java 코드](/Java/2503.java)
 * 2×n 타일링: [Java 코드](/Java/11726.java)
 * 더하기 사이클: [Java 코드](/Java/1110.java)
+* 최소 스패닝 트리: [Java 코드](/Java/1197.java)
