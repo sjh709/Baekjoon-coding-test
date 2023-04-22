@@ -79,3 +79,4 @@
 * 빠른 A+B: [Java 코드](/Java/15552.java)
 * 평균: [Java 코드](/Java/1546.java)
 * 플로이드: [Java 코드](/Java/11404.java)
+* 숫자의 개수: [Java 코드](/Java/2577.java)
