@@ -80,3 +80,4 @@
 * 평균: [Java 코드](/Java/1546.java)
 * 플로이드: [Java 코드](/Java/11404.java)
 * 숫자의 개수: [Java 코드](/Java/2577.java)
+* OX퀴즈: [Java 코드](/Java/8958.java)
