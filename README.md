@@ -81,3 +81,4 @@
 * 플로이드: [Java 코드](/Java/11404.java)
 * 숫자의 개수: [Java 코드](/Java/2577.java)
 * OX퀴즈: [Java 코드](/Java/8958.java)
+* 나머지: [Java 코드](/Java/3052.java)
