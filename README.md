@@ -85,3 +85,4 @@
 * 단어의 개수: [Java 코드](/Java/1152.java)
 * 알파벳 찾기: [Java 코드](/Java/10809.java)
 * 설탕 배달: [Java 코드](/Java/2839.java)
+* 평균은 넘겠지: [Java 코드](/Java/4344.java)
