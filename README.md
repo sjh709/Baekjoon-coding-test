@@ -86,3 +86,4 @@
 * 알파벳 찾기: [Java 코드](/Java/10809.java)
 * 설탕 배달: [Java 코드](/Java/2839.java)
 * 평균은 넘겠지: [Java 코드](/Java/4344.java)
+* 문자열 반복: [Java 코드](/Java/2675.java)
