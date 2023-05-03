@@ -90,3 +90,4 @@
 * 상수: [Java 코드](/Java/2908.java)
 * 셀프 넘버: [Java 코드](/Java/4673.java)
 * 수 정렬하기: [Java 코드](/Java/2750.java)
+* 한수: [Java 코드](/Java/1065.java)
