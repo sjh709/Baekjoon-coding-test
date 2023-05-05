@@ -94,3 +94,4 @@
 * 소수 찾기: [Java 코드](/Java/1978.java)
 * 정수 N개의 합: [Java 코드](/Java/15596.java)
 * 괄호: [Java 코드](/Java/9012.java)
+* 그룹 단어 체커: [Java 코드](/Java/1316.java)
