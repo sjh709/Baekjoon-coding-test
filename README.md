@@ -98,3 +98,4 @@
 * 스택: [Java 코드](/Java/10828.java)
 * 다이얼: [Java 코드](/Java/5622.java)
 * 크로아티아 알파벳: [Java 코드](/Java/2941.java)
+* 수 정렬하기 2: [Java 코드](/Java/2751.java)
