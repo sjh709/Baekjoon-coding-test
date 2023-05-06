@@ -99,3 +99,4 @@
 * 다이얼: [Java 코드](/Java/5622.java)
 * 크로아티아 알파벳: [Java 코드](/Java/2941.java)
 * 수 정렬하기 2: [Java 코드](/Java/2751.java)
+* 달팽이는 올라가고 싶다: [Java 코드](/Java/2869.java)
