@@ -108,3 +108,4 @@
 * 부녀회장이 될테야: [Java 코드](/Java/2775.java)
 * 수 정렬하기 3: [Java 코드](/Java/10989.java)
 * 음계: [Java 코드](/Java/2920.java)
+* 소트인사이드: [Java 코드](/Java/1427.java)
