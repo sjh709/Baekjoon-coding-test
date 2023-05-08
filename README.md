@@ -104,3 +104,4 @@
 * 피보나치 함수: [Java 코드](/Java/1003.java)
 * 분수찾기: [Java 코드](/Java/1193.java)
 * 단어 정렬: [Java 코드](/Java/1181.java)
+* 최대공약수와 최소공배수: [Java 코드](/Java/2609.java)
