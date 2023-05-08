@@ -102,3 +102,4 @@
 * 달팽이는 올라가고 싶다: [Java 코드](/Java/2869.java)
 * 소수 구하기: [Java 코드](/Java/1929.java)
 * 피보나치 함수: [Java 코드](/Java/1003.java)
+* 분수찾기: [Java 코드](/Java/1193.java)
