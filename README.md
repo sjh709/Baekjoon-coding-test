@@ -105,3 +105,4 @@
 * 분수찾기: [Java 코드](/Java/1193.java)
 * 단어 정렬: [Java 코드](/Java/1181.java)
 * 최대공약수와 최소공배수: [Java 코드](/Java/2609.java)
+* 부녀회장이 될테야: [Java 코드](/Java/2775.java)
