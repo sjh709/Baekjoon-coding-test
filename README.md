@@ -111,3 +111,4 @@
 * 소트인사이드: [Java 코드](/Java/1427.java)
 * 좌표 정렬하기: [Java 코드](/Java/11650.java)
 * 소수: [Java 코드](/Java/2581.java)
+* 새싹: [Java 코드](/Java/25083.java)
