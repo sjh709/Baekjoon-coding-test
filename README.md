@@ -114,3 +114,4 @@
 * 새싹: [Java 코드](/Java/25083.java)
 * 제로: [Java 코드](/Java/10773.java)
 * 나이순 정렬: [Java 코드](/Java/10814.java)
+* 소인수분해: [Java 코드](/Java/11653.java)
