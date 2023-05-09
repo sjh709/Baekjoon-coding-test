@@ -112,3 +112,4 @@
 * 좌표 정렬하기: [Java 코드](/Java/11650.java)
 * 소수: [Java 코드](/Java/2581.java)
 * 새싹: [Java 코드](/Java/25083.java)
+* 제로: [Java 코드](/Java/10773.java)
