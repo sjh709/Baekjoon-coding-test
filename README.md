@@ -115,3 +115,4 @@
 * 제로: [Java 코드](/Java/10773.java)
 * 나이순 정렬: [Java 코드](/Java/10814.java)
 * 소인수분해: [Java 코드](/Java/11653.java)
+* 토마토: [Java 코드](/Java/7576.java)
