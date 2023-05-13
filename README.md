@@ -120,3 +120,4 @@
 * 큐: [Java 코드](/Java/10845.java)
 * 개수 세기: [Java 코드](/Java/10807.java)
 * 영수증: [Java 코드](/Java/25304.java)
+* 영화감독 숌: [Java 코드](/Java/1436.java)
