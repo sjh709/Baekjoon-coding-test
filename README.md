@@ -117,3 +117,4 @@
 * 소인수분해: [Java 코드](/Java/11653.java)
 * 토마토: [Java 코드](/Java/7576.java)
 * 체스판 다시 칠하기: [Java 코드](/Java/1018.java)
+* 큐: [Java 코드](/Java/10845.java)
