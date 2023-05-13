@@ -119,3 +119,4 @@
 * 체스판 다시 칠하기: [Java 코드](/Java/1018.java)
 * 큐: [Java 코드](/Java/10845.java)
 * 개수 세기: [Java 코드](/Java/10807.java)
+* 영수증: [Java 코드](/Java/25304.java)
