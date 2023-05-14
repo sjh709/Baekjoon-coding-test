@@ -124,3 +124,4 @@
 * 카드2: [Java 코드](/Java/2164.java)
 * 2007년: [Java 코드](/Java/1924.java)
 * 좌표 정렬하기 2: [Java 코드](/Java/11651.java)
+* 정수 삼각형: [Java 코드](/Java/1932.java)
