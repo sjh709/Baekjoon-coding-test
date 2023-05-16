@@ -126,3 +126,4 @@
 * 좌표 정렬하기 2: [Java 코드](/Java/11651.java)
 * 정수 삼각형: [Java 코드](/Java/1932.java)
 * 스택 수열: [Java 코드](/Java/1874.java)
+* 터렛: [Java 코드](/Java/1002.java)
