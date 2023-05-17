@@ -127,3 +127,4 @@
 * 정수 삼각형: [Java 코드](/Java/1932.java)
 * 스택 수열: [Java 코드](/Java/1874.java)
 * 터렛: [Java 코드](/Java/1002.java)
+* 열 개씩 끊어 출력하기: [Java 코드](/Java/11721.java)
