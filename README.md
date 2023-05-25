@@ -131,3 +131,4 @@
 * N과 M (2): [Java 코드](/Java/15650.java)
 * 요세푸스 문제: [Java 코드](/Java/1158.java)
 * 과제 안 내신 분..?: [Java 코드](/Java/5597.java)
+* 단어 길이 재기: [Java 코드](/Java/2743.java)
