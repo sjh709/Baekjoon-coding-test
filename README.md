@@ -133,3 +133,4 @@
 * 과제 안 내신 분..?: [Java 코드](/Java/5597.java)
 * 단어 길이 재기: [Java 코드](/Java/2743.java)
 * 파도반 수열: [Java 코드](/Java/9461.java)
+* 덱: [Java 코드](/Java/10866.java)
