@@ -135,3 +135,4 @@
 * 파도반 수열: [Java 코드](/Java/9461.java)
 * 덱: [Java 코드](/Java/10866.java)
 * 포도주 시식: [Java 코드](/Java/2156.java)
+* 하노이 탑 이동 순서: [Java 코드](/Java/11729.java)
