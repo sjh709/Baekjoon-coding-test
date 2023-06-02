@@ -137,3 +137,4 @@
 * 포도주 시식: [Java 코드](/Java/2156.java)
 * 하노이 탑 이동 순서: [Java 코드](/Java/11729.java)
 * 피보나치 수 2: [Java 코드](/Java/2748.java)
+* 연결 요소의 개수: [Java 코드](/Java/11724.java)
