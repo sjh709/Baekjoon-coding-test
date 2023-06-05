@@ -140,3 +140,4 @@
 * 연결 요소의 개수: [Java 코드](/Java/11724.java)
 * 그대로 출력하기 2: [Java 코드](/Java/11719.java)
 * 나무 자르기: [Java 코드](/Java/2805.java)
+* 베르트랑 공준: [Java 코드](/Java/4948.java)
