@@ -142,3 +142,4 @@
 * 나무 자르기: [Java 코드](/Java/2805.java)
 * 베르트랑 공준: [Java 코드](/Java/4948.java)
 * 다리 놓기: [Java 코드](/Java/1010.java)
+* 잃어버린 괄호: [Java 코드](/Java/1541.java)
