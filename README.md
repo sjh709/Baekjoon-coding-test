@@ -143,3 +143,4 @@
 * 베르트랑 공준: [Java 코드](/Java/4948.java)
 * 다리 놓기: [Java 코드](/Java/1010.java)
 * 잃어버린 괄호: [Java 코드](/Java/1541.java)
+* N-Queen: [Java 코드](/Java/9663.java)
