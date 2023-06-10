@@ -145,3 +145,4 @@
 * 잃어버린 괄호: [Java 코드](/Java/1541.java)
 * N-Queen: [Java 코드](/Java/9663.java)
 * 프린터 큐: [Java 코드](/Java/1966.java)
+* 이항 계수 1: [Java 코드](/Java/11050.java)
