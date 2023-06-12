@@ -147,3 +147,4 @@
 * 프린터 큐: [Java 코드](/Java/1966.java)
 * 이항 계수 1: [Java 코드](/Java/11050.java)
 * 연산자 끼워넣기: [Java 코드](/Java/14888.java)
+* 요세푸스 문제 0: [Java 코드](/Java/11866.java)
