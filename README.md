@@ -149,3 +149,4 @@
 * 연산자 끼워넣기: [Java 코드](/Java/14888.java)
 * 요세푸스 문제 0: [Java 코드](/Java/11866.java)
 * N과 M (3): [Java 코드](/Java/15651.java)
+* N과 M (4): [Java 코드](/Java/15652.java)
