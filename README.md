@@ -150,3 +150,4 @@
 * 요세푸스 문제 0: [Java 코드](/Java/11866.java)
 * N과 M (3): [Java 코드](/Java/15651.java)
 * N과 M (4): [Java 코드](/Java/15652.java)
+* 랜선 자르기: [Java 코드](/Java/1654.java)
