@@ -152,3 +152,4 @@
 * N과 M (4): [Java 코드](/Java/15652.java)
 * 랜선 자르기: [Java 코드](/Java/1654.java)
 * 약수: [Java 코드](/Java/1037.java)
+* 숫자 카드: [Java 코드](/Java/10815.java)
