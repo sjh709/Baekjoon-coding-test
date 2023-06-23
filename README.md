@@ -155,3 +155,4 @@
 * 숫자 카드: [Java 코드](/Java/10815.java)
 * 별 찍기 - 10: [Java 코드](/Java/2447.java)
 * 퇴사: [Java 코드](/Java/14501.java)
+* 연구소: [Java 코드](/Java/14502.java)
