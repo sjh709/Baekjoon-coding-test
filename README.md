@@ -158,3 +158,4 @@
 * 연구소: [Java 코드](/Java/14502.java)
 * 통계학: [Java 코드](/Java/2108.java)
 * 균형잡힌 세상: [Java 코드](/Java/4949.java)
+* 골드바흐의 추측: [Java 코드](/Java/9020.java)
