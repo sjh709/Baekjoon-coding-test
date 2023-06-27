@@ -159,3 +159,4 @@
 * 통계학: [Java 코드](/Java/2108.java)
 * 균형잡힌 세상: [Java 코드](/Java/4949.java)
 * 골드바흐의 추측: [Java 코드](/Java/9020.java)
+* 팩토리얼 0의 개수: [Java 코드](/Java/1676.java)
