@@ -162,3 +162,4 @@
 * 팩토리얼 0의 개수: [Java 코드](/Java/1676.java)
 * 구간 합 구하기 4: [Java 코드](/Java/11659.java)
 * 평범한 배낭: [Java 코드](/Java/12865.java)
+* 최소 힙: [Java 코드](/Java/1927.java)
