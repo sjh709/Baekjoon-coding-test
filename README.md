@@ -164,3 +164,4 @@
 * 평범한 배낭: [Java 코드](/Java/12865.java)
 * 최소 힙: [Java 코드](/Java/1927.java)
 * 스타트와 링크: [Java 코드](/Java/14889.java)
+* 팰린드롬수: [Java 코드](/Java/1259.java)
