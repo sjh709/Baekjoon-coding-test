@@ -167,3 +167,4 @@
 * 팰린드롬수: [Java 코드](/Java/1259.java)
 * 최대 힙: [Java 코드](/Java/11279.java)
 * 트리 순회: [Java 코드](/Java/1991.java)
+* A+B - 6: [Java 코드](/Java/10953.java)
