@@ -170,3 +170,4 @@
 * A+B - 6: [Java 코드](/Java/10953.java)
 * 적록색약: [Java 코드](/Java/10026.java)
 * 행렬 덧셈: [Java 코드](/Java/2738.java)
+* 01타일: [Java 코드](/Java/1904.java)
