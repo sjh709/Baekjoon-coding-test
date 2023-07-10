@@ -172,3 +172,4 @@
 * 행렬 덧셈: [Java 코드](/Java/2738.java)
 * 01타일: [Java 코드](/Java/1904.java)
 * 좌표 압축: [Java 코드](/Java/18870.java)
+* 팰린드롬인지 확인하기: [Java 코드](/Java/10988.java)
