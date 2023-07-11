@@ -173,3 +173,4 @@
 * 01타일: [Java 코드](/Java/1904.java)
 * 좌표 압축: [Java 코드](/Java/18870.java)
 * 팰린드롬인지 확인하기: [Java 코드](/Java/10988.java)
+* 문자열: [Java 코드](/Java/9086.java)
