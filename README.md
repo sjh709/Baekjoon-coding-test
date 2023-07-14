@@ -177,3 +177,4 @@
 * 코딩은 체육과목 입니다: [Java 코드](/Java/25314.java)
 * 섬의 개수: [Java 코드](/Java/4963.java)
 * Fly me to the Alpha Centauri: [Java 코드](/Java/1011.java)
+* LCS: [Java 코드](/Java/9251.java)
