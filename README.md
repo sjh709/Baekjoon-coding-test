@@ -178,3 +178,4 @@
 * 섬의 개수: [Java 코드](/Java/4963.java)
 * Fly me to the Alpha Centauri: [Java 코드](/Java/1011.java)
 * LCS: [Java 코드](/Java/9251.java)
+* 치킨 배달: [Java 코드](/Java/15686.java)
