@@ -5,7 +5,6 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         
-        
         int t = Integer.parseInt(br.readLine());
         
         for(int k = 0; k < t; k++) {
