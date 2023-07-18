@@ -181,3 +181,4 @@
 * 치킨 배달: [Java 코드](/Java/15686.java)
 * 쇠막대기: [Java 코드](/Java/10799.java)
 * 부분수열의 합: [Java 코드](/Java/1182.java)
+* 스티커: [Java 코드](/Java/9465.java)
