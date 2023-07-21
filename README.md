@@ -183,3 +183,4 @@
 * 부분수열의 합: [Java 코드](/Java/1182.java)
 * 스티커: [Java 코드](/Java/9465.java)
 * 암호 만들기: [Java 코드](/Java/1759.java)
+* 쿼드트리: [Java 코드](/Java/1992.java)
