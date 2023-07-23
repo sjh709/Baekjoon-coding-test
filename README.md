@@ -184,3 +184,4 @@
 * 스티커: [Java 코드](/Java/9465.java)
 * 암호 만들기: [Java 코드](/Java/1759.java)
 * 쿼드트리: [Java 코드](/Java/1992.java)
+* 로또: [Java 코드](/Java/6603.java)
