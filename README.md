@@ -185,3 +185,4 @@
 * 암호 만들기: [Java 코드](/Java/1759.java)
 * 쿼드트리: [Java 코드](/Java/1992.java)
 * 로또: [Java 코드](/Java/6603.java)
+* 트리의 부모 찾기: [Java 코드](/Java/11725.java)
