@@ -187,3 +187,4 @@
 * 로또: [Java 코드](/Java/6603.java)
 * 트리의 부모 찾기: [Java 코드](/Java/11725.java)
 * 곱셈: [Java 코드](/Java/1629.java)
+* 로프: [Java 코드](/Java/2217.java)
