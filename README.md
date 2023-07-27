@@ -188,3 +188,4 @@
 * 트리의 부모 찾기: [Java 코드](/Java/11725.java)
 * 곱셈: [Java 코드](/Java/1629.java)
 * 로프: [Java 코드](/Java/2217.java)
+* 색종이 만들기: [Java 코드](/Java/2630.java)
