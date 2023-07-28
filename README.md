@@ -189,3 +189,4 @@
 * 곱셈: [Java 코드](/Java/1629.java)
 * 로프: [Java 코드](/Java/2217.java)
 * 색종이 만들기: [Java 코드](/Java/2630.java)
+* 나이트의 이동: [Java 코드](/Java/7562.java)
