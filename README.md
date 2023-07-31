@@ -192,3 +192,4 @@
 * 나이트의 이동: [Java 코드](/Java/7562.java)
 * Z: [Java 코드](/Java/1074.java)
 * 알파벳: [Java 코드](/Java/1987.java)
+* 방 번호: [Java 코드](/Java/1475.java)
