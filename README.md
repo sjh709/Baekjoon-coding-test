@@ -194,3 +194,4 @@
 * 알파벳: [Java 코드](/Java/1987.java)
 * 방 번호: [Java 코드](/Java/1475.java)
 * AC: [Java 코드](/Java/5430.java)
+* 큐 2: [Java 코드](/Java/18258.java)
