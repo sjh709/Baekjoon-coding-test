@@ -195,3 +195,4 @@
 * 방 번호: [Java 코드](/Java/1475.java)
 * AC: [Java 코드](/Java/5430.java)
 * 큐 2: [Java 코드](/Java/18258.java)
+* 테트로미노: [Java 코드](/Java/14500.java)
