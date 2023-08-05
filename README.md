@@ -196,3 +196,4 @@
 * AC: [Java 코드](/Java/5430.java)
 * 큐 2: [Java 코드](/Java/18258.java)
 * 테트로미노: [Java 코드](/Java/14500.java)
+* 절댓값 힙: [Java 코드](/Java/11286.java)
