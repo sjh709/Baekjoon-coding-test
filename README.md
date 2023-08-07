@@ -198,3 +198,4 @@
 * 테트로미노: [Java 코드](/Java/14500.java)
 * 절댓값 힙: [Java 코드](/Java/11286.java)
 * 벽 부수고 이동하기: [Java 코드](/Java/2206.java)
+* 문자와 문자열: [Java 코드](/Java/27866.java)
