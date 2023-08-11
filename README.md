@@ -202,3 +202,4 @@
 * 회전하는 큐: [Java 코드](/Java/1021.java)
 * 날짜 계산: [Java 코드](/Java/1476.java)
 * 에디터: [Java 코드](/Java/1406.java)
+* 공 넣기: [Java 코드](/Java/10810.java)
