@@ -204,3 +204,4 @@
 * 에디터: [Java 코드](/Java/1406.java)
 * 공 넣기: [Java 코드](/Java/10810.java)
 * 경로 찾기: [Java 코드](/Java/11403.java)
+* 가장 긴 바이토닉 부분 수열: [Java 코드](/Java/11054.java)
