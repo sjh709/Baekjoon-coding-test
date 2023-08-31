@@ -208,3 +208,4 @@
 * 대표값2: [Java 코드](/Java/2587.java)
 * 공 바꾸기: [Java 코드](/Java/10813.java)
 * 세로읽기: [Java 코드](/Java/10798.java)
+* 종이의 개수: [Java 코드](/Java/1780.java)
