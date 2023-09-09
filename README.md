@@ -211,3 +211,4 @@
 * 종이의 개수: [Java 코드](/Java/1780.java)
 * 구간 합 구하기 5: [Java 코드](/Java/11660.java)
 * 정ㅋ벅ㅋ: [Java 코드](/Java/1237.java)
+* 영역 구하기: [Java 코드](/Java/2583.java)
