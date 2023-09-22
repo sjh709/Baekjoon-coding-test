@@ -216,3 +216,4 @@
 * N과 M (5): [Java 코드](/Java/15654.java)
 * 바구니 뒤집기: [Java 코드](/Java/10811.java)
 * 막대기: [Java 코드](/Java/1094.java)
+* 오큰수: [Java 코드](/Java/17298.java)
